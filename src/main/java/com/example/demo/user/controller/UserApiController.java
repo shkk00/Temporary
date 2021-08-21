@@ -2,6 +2,7 @@ package com.example.demo.user.controller;
 
 
 import com.example.demo.user.model.dto.UserDto;
+import com.example.demo.user.model.dto.UserResponse;
 import com.example.demo.user.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
